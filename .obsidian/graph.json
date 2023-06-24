@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Índice",
+      "color": {
+        "a": 1,
+        "rgb": 16746755
+      }
+    },
+    {
+      "query": "tag:#LaTex",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    },
+    {
+      "query": "tag:#Matemática",
+      "color": {
+        "a": 1,
+        "rgb": 4663573
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.316998914738526,
+  "close": true
+}

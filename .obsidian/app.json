@@ -1,0 +1,27 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": null,
+  "promptDelete": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Plantillas/",
+    "2S_2022-Apuntes_obsidian/Plantillas/",
+    "Cerebro_digital_obsidian_hefecaso/Plantillas/",
+    "Cursos_extra_Obsidian/Plantillas/",
+    "Notebook_IGA/Plantillas/"
+  ],
+  "defaultViewMode": "preview",
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
+}

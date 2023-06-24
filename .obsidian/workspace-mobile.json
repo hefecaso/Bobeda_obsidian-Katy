@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "5954da28a4158511",
+    "type": "split",
+    "children": [
+      {
+        "id": "82154db42518fd4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954180c9ba7e1066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos_extra_Obsidian/CISCO_IEEE/Índice CISCO IEEE.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "446c5f21c6a9e3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos_extra_Obsidian/CISCO_IEEE/Capítulo 0.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "db77b61e121934a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a6cc6b3a9de10dc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "100cfd9f7c3478d6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "0bd931757dcf6b02",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3ef0444643636d28",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "905a034eedf0ffff",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8c5c978235a94890",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "420bfe361c3934fb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d2b9d9e851d45c96",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cursos_extra_Obsidian/CISCO_IEEE/Capítulo 0.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f37dff3590068d98",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Cursos_extra_Obsidian/CISCO_IEEE/Capítulo 0.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "446c5f21c6a9e3bf",
+  "lastOpenFiles": [
+    "Cursos_extra_Obsidian/CISCO_IEEE/Índice CISCO IEEE.md",
+    "Plantillas/Clases de inglés.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/CISCO/Índice CISCO.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Python/Docker/Docker.md",
+    "Plantillas/Zettelkasten.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Python/Docker/Índice docker.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Hacker/Hack The Box/Lvl-2 Hackeando TCP P-21.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Hacker/Índices/Índice Hacking.md",
+    "CISCO/Índice CISCO.md",
+    "Cerebro/Ubuntu/Protocolo SSH.md"
+  ]
+}

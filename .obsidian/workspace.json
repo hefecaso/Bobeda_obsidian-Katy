@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "5954da28a4158511",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87250903a844b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0644c7d3cf7683fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d601ed7fd442ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63be4d6a11ac90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f1382f8f6b8d8d",
+        "type": "tabs",
+        "dimension": 42.73504273504275,
+        "children": [
+          {
+            "id": "26b0fc6e0c03574a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latex/Índice/Índice LaTex.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "376046ebdf9dc7af",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "74f18d91fd5a0597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e410262def69b942",
+        "type": "tabs",
+        "dimension": 57.26495726495725,
+        "children": [
+          {
+            "id": "1b8be3d8c2385f97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "6c8cacae256de3fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Índice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "778cd5fc47c26e88",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1S 2023/Geometría/multimedia/Pasted image 20230327073413.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "8a7c310d9b48ed5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f270f887a197a9c",
+        "type": "tabs",
+        "dimension": 39.1,
+        "children": [
+          {
+            "id": "c7dcb23babcc47f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc46777cd32766b2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "ded4394fc5f86abe",
+        "type": "tabs",
+        "dimension": 27.6,
+        "children": [
+          {
+            "id": "bef6553b57a4fb7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "85c23867576816e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a3871bd5390f7b73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b9ca9798c4bed5f",
+        "type": "tabs",
+        "dimension": 33.300000000000004,
+        "children": [
+          {
+            "id": "a7645c3b5cecf538",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "gpt3-notes:GPT-3 Notes": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2d601ed7fd442ae4",
+  "lastOpenFiles": [
+    "Latex/Índice/Índice LaTex.md",
+    "1S 2023/Geometría/multimedia/Pasted image 20230327073413.png",
+    "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md",
+    "1S 2023/Algebra #5/TEMAS/Indice de Algebra Superior.md",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622215455.png",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622215353.png",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622214715.png",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622214558.png",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622214438.png",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230615184433.png",
+    "1S 2023/Algebra #5/TEMAS/Pasted image 20230615184239.png",
+    "1S 2023/Algebra #5/TEMAS/Introducción a la Forma Punto-Pendiente.md",
+    "Starbucks/Coffe Acedemy Nivel 200/Coffe Academy Nivel 200.md",
+    "Starbucks/Coffe Acedemy Nivel 200",
+    "Starbucks",
+    "1S 2023/Algebra #5/TEMAS/Diferencias de Intervalos.md",
+    "1S 2023/Algebra #5/multimedia/Pasted image 20230612150245.png",
+    "1S 2023/Algebra #5/multimedia/Pasted image 20230612150220.png",
+    "Syllektis/índice de Wall-E/Regolito.md",
+    "Syllektis/índice de Wall-E/~WRL3116.tmp",
+    "Syllektis/índice de Wall-E/~WRD3101.tmp",
+    "Syllektis/índice de Wall-E/Qué es el regolito.docx",
+    "Syllektis/índice de Wall-E/Syllektis.md",
+    "Para_presentar.pdf.md",
+    "Syllektis/regolito/Untitled.md",
+    "Syllektis/índice de Wall-E",
+    "Syllektis/regolito",
+    "Syllektis",
+    "1S 2023/Algebra #5/TEMAS/Intersecciones.md",
+    "1S 2023/Algebra #5/TEMAS/Operaciones entre intervalos.md",
+    "1S 2023/Física 1/Indice de Física/Indice Física 1.md",
+    "1S 2023/Metodología de Inv/índice de Met. Inv/Indice de Metodología de Inv.md",
+    "1S 2023/Física 1/Multimedia/Indice de taller Física.md",
+    "1S 2023/Física 1/Taller de Física/Índice taller de Física/Evaluación 2.md",
+    "1S 2023/Física 1/Indice de Física/Carlcular la energía.md",
+    "1S 2023/Física 1/Indice de Física/Ejercicios.md",
+    "1S 2023/Física 1/Indice de Física/sin nombre.md",
+    "clase 20/4/Índice de Met. Inv.md",
+    "clase 20/4/Método Ciéntifico.md",
+    "1S 2023/Geometría/Indice 1/Indice de Geometría.md",
+    "1S 2023/Algebra #5/TEMAS/Unión de Intervalos.md",
+    "1S 2023/Algebra #5/TEMAS/Propiedades de la Suma.md",
+    "1S 2023/Algebra #5/TEMAS/Factorización de Sophie Germain.md",
+    "clase 20/4",
+    "clase 20"
+  ]
+}
