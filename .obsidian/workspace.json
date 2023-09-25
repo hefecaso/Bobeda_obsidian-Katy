@@ -4,46 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b87250903a844b53",
+        "id": "e296c3ed787b0a83",
         "type": "tabs",
         "children": [
           {
-            "id": "0644c7d3cf7683fc",
+            "id": "740d93352144a942",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "2d601ed7fd442ae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "c63be4d6a11ac90f",
-    "type": "split",
-    "children": [
-      {
-        "id": "17f1382f8f6b8d8d",
-        "type": "tabs",
-        "dimension": 42.73504273504275,
-        "children": [
-          {
-            "id": "26b0fc6e0c03574a",
+            "id": "ef33040b357e5710",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,28 +28,86 @@
             }
           },
           {
-            "id": "376046ebdf9dc7af",
+            "id": "293ade6746c040b0",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "markdown",
+              "state": {
+                "file": "Latex/Estructura de un documento Latex.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4e12afb03328c41a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63be4d6a11ac90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f1382f8f6b8d8d",
+        "type": "tabs",
+        "dimension": 30.434782608695645,
+        "children": [
+          {
+            "id": "26b0fc6e0c03574a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "74f18d91fd5a0597",
+            "id": "45ab9518d6e00f2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b53aca9d7f40c82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c1830431a6c06be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f14c685412376e64",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e410262def69b942",
         "type": "tabs",
-        "dimension": 57.26495726495725,
+        "dimension": 69.56521739130436,
         "children": [
           {
             "id": "1b8be3d8c2385f97",
@@ -84,7 +115,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -94,22 +125,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Índice",
+                "query": "figura latex",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "778cd5fc47c26e88",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1S 2023/Geometría/multimedia/Pasted image 20230327073413.png"
               }
             }
           }
@@ -117,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 330.5
   },
   "right": {
     "id": "8a7c310d9b48ed5d",
@@ -137,18 +158,45 @@
             }
           },
           {
-            "id": "cc46777cd32766b2",
+            "id": "f421bb5c26650fd7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2769e970e50bc6f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "23a88ecf8e354647",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d970f2bfe38d7b87",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.9"
+                "currentVersion": "1.4.5"
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ded4394fc5f86abe",
@@ -161,14 +209,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -188,8 +235,40 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dcb28e7f7fef960",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md"
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.19375393670162536,
+                  "close": true
+                }
               }
             }
           }
@@ -212,67 +291,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 398.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "gpt3-notes:GPT-3 Notes": false,
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "gpt3-notes:GPT-3 Notes": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "2d601ed7fd442ae4",
+  "active": "4e12afb03328c41a",
   "lastOpenFiles": [
+    "Latex/Estructura de un documento Latex.md",
+    "Latex/Estructura de un documento Latex 1.md",
     "Latex/Índice/Índice LaTex.md",
-    "1S 2023/Geometría/multimedia/Pasted image 20230327073413.png",
-    "1S 2023/Algebra #5/TEMAS/Ecuaciones Lineales en R.md",
-    "1S 2023/Algebra #5/TEMAS/Indice de Algebra Superior.md",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622215455.png",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622215353.png",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622214715.png",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622214558.png",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230622214438.png",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230615184433.png",
-    "1S 2023/Algebra #5/TEMAS/Pasted image 20230615184239.png",
-    "1S 2023/Algebra #5/TEMAS/Introducción a la Forma Punto-Pendiente.md",
-    "Starbucks/Coffe Acedemy Nivel 200/Coffe Academy Nivel 200.md",
-    "Starbucks/Coffe Acedemy Nivel 200",
-    "Starbucks",
-    "1S 2023/Algebra #5/TEMAS/Diferencias de Intervalos.md",
-    "1S 2023/Algebra #5/multimedia/Pasted image 20230612150245.png",
-    "1S 2023/Algebra #5/multimedia/Pasted image 20230612150220.png",
-    "Syllektis/índice de Wall-E/Regolito.md",
-    "Syllektis/índice de Wall-E/~WRL3116.tmp",
-    "Syllektis/índice de Wall-E/~WRD3101.tmp",
-    "Syllektis/índice de Wall-E/Qué es el regolito.docx",
-    "Syllektis/índice de Wall-E/Syllektis.md",
-    "Para_presentar.pdf.md",
-    "Syllektis/regolito/Untitled.md",
-    "Syllektis/índice de Wall-E",
-    "Syllektis/regolito",
-    "Syllektis",
-    "1S 2023/Algebra #5/TEMAS/Intersecciones.md",
-    "1S 2023/Algebra #5/TEMAS/Operaciones entre intervalos.md",
-    "1S 2023/Física 1/Indice de Física/Indice Física 1.md",
-    "1S 2023/Metodología de Inv/índice de Met. Inv/Indice de Metodología de Inv.md",
-    "1S 2023/Física 1/Multimedia/Indice de taller Física.md",
-    "1S 2023/Física 1/Taller de Física/Índice taller de Física/Evaluación 2.md",
-    "1S 2023/Física 1/Indice de Física/Carlcular la energía.md",
-    "1S 2023/Física 1/Indice de Física/Ejercicios.md",
-    "1S 2023/Física 1/Indice de Física/sin nombre.md",
-    "clase 20/4/Índice de Met. Inv.md",
-    "clase 20/4/Método Ciéntifico.md",
-    "1S 2023/Geometría/Indice 1/Indice de Geometría.md",
-    "1S 2023/Algebra #5/TEMAS/Unión de Intervalos.md",
-    "1S 2023/Algebra #5/TEMAS/Propiedades de la Suma.md",
-    "1S 2023/Algebra #5/TEMAS/Factorización de Sophie Germain.md",
-    "clase 20/4",
-    "clase 20"
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Índice/Índice LaTex.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Tipos de documentos LaTex.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Documento básico LaTex.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Artículo científico LaTex.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Comandos/Configuración para cualquier documento LaTex.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Estructura de un documento Latex.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Comandos/Insertar título.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Comandos/Comillas.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Comandos/Gráficos al tamaño de la columna.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Comandos/Gráficos a escala.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Octave/Mostrar el formato de valores numéricos.md",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Carta LaTex.md",
+    "Cursos_extra_Obsidian/Automatización industrial/Índice curso de automatización.md",
+    "IASA/Índice IASA.md",
+    "Plantillas/Nuevo índice.md",
+    "Plantillas/Notas diarias.md",
+    "Plantillas/Inglés autodidacta.md",
+    "Plantillas/Clases de inglés.md",
+    "Plantillas/Zettelkasten.md",
+    "Cursos_extra_Obsidian/Automatización industrial/Notas/Simultaneidad GRAFCET.md",
+    "Cursos_extra_Obsidian/Automatización industrial/Notas/Diagrama de GRAFCET.md",
+    "Cursos_extra_Obsidian/Automatización industrial/Notas/Introducción a GRAFCET.md",
+    "Cursos_extra_Obsidian/Automatización industrial/Notas/Programación básica STL.md",
+    "Pasted image 20230903212618.png",
+    "Zotero referencias",
+    "IASA/Notebook",
+    "Cursos_extra_Obsidian/Automatización industrial/Multimedia/Pasted image 20230709203529.png",
+    "English/Notebook_AE/Level_10/Multimedia/Pasted image 20230710082148.png",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/ImageJ analizador/Multimedia/Pasted image 20221222011929.png",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/ImageJ analizador/Multimedia/Pasted image 20221222011154.png",
+    "Cursos_extra_Obsidian/Automatización industrial/Multimedia/Pasted image 20230709194837.png",
+    "English/Notebook_AE/Level_10/Multimedia/Pasted image 20230710082120.png",
+    "English/Notebook_AE/Level_10/Multimedia/Pasted image 20230710085456.png",
+    "English/Notebook_AE/Level_10/Multimedia/Pasted image 20230710084156.png",
+    "Cursos_extra_Obsidian/Automatización industrial/Multimedia/Pasted image 20230709221107.png",
+    "IASA/Imágenes",
+    "IASA",
+    "USAC/Tesis/Tesis Formal",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Escalera/Notas",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Escalera/Multimedia",
+    "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Escalera",
+    "Cursos_extra_Obsidian/Automatización industrial/Untitled",
+    "Cursos_extra_Obsidian/Automatización industrial/Notas",
+    "English/Guía para inglés/Mapa de aprendizaje A1.canvas",
+    "English/Guía para inglés/Mapa de aprendizaje A1 (copia).canvas",
+    "Untitled.canvas"
   ]
 }

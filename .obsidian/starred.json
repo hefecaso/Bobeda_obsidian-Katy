@@ -92,16 +92,6 @@
     },
     {
       "type": "file",
-      "title": "English index - 4A",
-      "path": "English/Notebook_IGA/4A/English index - 4A.md"
-    },
-    {
-      "type": "file",
-      "title": "English index - 4B",
-      "path": "English/Notebook_IGA/4B/English index - 4B.md"
-    },
-    {
-      "type": "file",
       "title": "Índice Álgebra",
       "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Matemáticas/Índices/Índice Álgebra.md"
     },
@@ -248,27 +238,32 @@
     {
       "type": "file",
       "title": "Índice Tesis",
-      "path": "USAC/1S_2023/Tesis/Índice Tesis.md"
+      "path": "USAC/Tesis/Índice Tesis.md"
     },
     {
       "type": "file",
-      "title": "Indice de Algebra Superior",
-      "path": "1S 2023/Algebra #5/TEMAS/Indice de Algebra Superior.md"
+      "title": "Índice iglesia",
+      "path": "Iglesia/Índice iglesia.md"
     },
     {
       "type": "file",
-      "title": "Indice F",
-      "path": "1S 2023/Física 1/Indice de Física/Indice Física 1.md"
+      "title": "Índice C++",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Índices/Índice C++.md"
     },
     {
       "type": "file",
-      "title": "Indice 1",
-      "path": "1S 2023/Geometría/Indice 1/Indice de Geometría.md"
+      "title": "Índice Octave",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Octave/índice/Índice Octave.md"
     },
     {
       "type": "file",
-      "title": "índice",
-      "path": "1S 2023/Metodología de Inv/índice de Met. Inv/Indice de Metodología de Inv.md"
+      "title": "English Index",
+      "path": "English/English Index.md"
+    },
+    {
+      "type": "file",
+      "title": "Índice Telecomunicaciónes y redes locales 1S 2023",
+      "path": "USAC/1S_2023/Redes/Índice Telecomunicaciónes y redes locales 1S 2023.md"
     }
   ]
 }

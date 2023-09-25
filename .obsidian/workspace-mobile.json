@@ -11,32 +11,46 @@
             "id": "954180c9ba7e1066",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Multimedia_temporal/Screenshot_20230619_094809 1.jpg"
+              }
+            }
+          },
+          {
+            "id": "ebf73ac2695249d9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos_extra_Obsidian/CISCO_IEEE/Índice CISCO IEEE.md",
+                "file": "English/Notebook_AE/Level_10/6-20-2023 AE.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "446c5f21c6a9e3bf",
+            "id": "65e8596edfa1e617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos_extra_Obsidian/CISCO_IEEE/Capítulo 0.md",
-                "mode": "source",
+                "file": "English/Notebook_AE/Level_10/Index level 10 AE.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "db77b61e121934a9",
+            "id": "427f6f1e36637d03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "English/Notebook_AE/Level_10/Index level 10 AE.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -92,6 +106,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "ac49b67effb4c58f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -114,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cursos_extra_Obsidian/CISCO_IEEE/Capítulo 0.md",
+            "file": "English/Notebook_AE/Level_10/6-20-2023 AE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,15 +153,51 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cursos_extra_Obsidian/CISCO_IEEE/Capítulo 0.md"
+            "file": "English/Notebook_AE/Level_10/6-20-2023 AE.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "446c5f21c6a9e3bf",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Abrir vista de gráfico": false,
+      "gpt3-notes:GPT-3 Notes": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "switcher:Abrir quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false
+    }
+  },
+  "active": "ebf73ac2695249d9",
   "lastOpenFiles": [
+    "Multimedia_temporal/Screenshot_20230620_100005.jpg",
+    "Multimedia_temporal/Screenshot_20230620_095941.jpg",
+    "Multimedia_temporal/Screenshot_20230620_095541.jpg",
+    "Multimedia_temporal/Screenshot_20230620_095443.jpg",
+    "Multimedia_temporal/Screenshot_20230620_095236.jpg",
+    "Multimedia_temporal/Screenshot_20230620_094658.jpg",
+    "Multimedia_temporal/Screenshot_20230620_094317.jpg",
+    "Multimedia_temporal/Screenshot_20230620_094114.jpg",
+    "Multimedia_temporal/Screenshot_20230620_094015.jpg",
+    "Multimedia_temporal/Screenshot_20230620_093918.jpg",
+    "English/Notebook_AE/Level_10/link.md",
+    "English/Notebook_AE/Level_10/6-20-2023 AE.md",
+    "English/Notebook_AE/Level_10/Index level 10 AE.md",
+    "English/Notebook_AE/Level_10/6-19-2023 AE.md",
+    "Multimedia_temporal/Screenshot_20230619_095932.jpg",
+    "English/Notebook_AE/Level_10/5-11-2023 AE.md",
+    "English/English Index.md",
+    "English/Guía para inglés/A1 Level English.md",
+    "English/Guía para inglés/Frequency Adverbs.md",
+    "English/Guía para inglés/Mapa de aprendizaje A1.canvas",
+    "English/A1 Level English/Simple Present.md",
+    "Iglesia/Redma/El hijo prodigo.md",
+    "Iglesia/Índice iglesia.md",
     "Cursos_extra_Obsidian/CISCO_IEEE/Índice CISCO IEEE.md",
     "Plantillas/Clases de inglés.md",
     "Cerebro_digital_obsidian_hefecaso/Cerebro/CISCO/Índice CISCO.md",
@@ -148,7 +206,6 @@
     "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Python/Docker/Índice docker.md",
     "Cerebro_digital_obsidian_hefecaso/Cerebro/Hacker/Hack The Box/Lvl-2 Hackeando TCP P-21.md",
     "Cerebro_digital_obsidian_hefecaso/Cerebro/Hacker/Índices/Índice Hacking.md",
-    "CISCO/Índice CISCO.md",
-    "Cerebro/Ubuntu/Protocolo SSH.md"
+    "CISCO/Índice CISCO.md"
   ]
 }

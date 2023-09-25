@@ -2,23 +2,173 @@
   "items": [
     {
       "type": "file",
-      "path": "1S 2023/Algebra #5/TEMAS/Indice de Algebra Superior.md",
-      "ctime": 1684107610645
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Matemáticas/Índices/Índice Álgebra.md",
+      "ctime": 1683127483914
     },
     {
       "type": "file",
-      "path": "1S 2023/Física 1/Indice de Física/Indice Física 1.md",
-      "ctime": 1684107610645
+      "path": "Cursos_extra_Obsidian/CCNA_muni/Índice CCNA Muni.md",
+      "ctime": 1683127483914
     },
     {
       "type": "file",
-      "path": "1S 2023/Geometría/Indice 1/Indice de Geometría.md",
-      "ctime": 1684107610645
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/CISCO/Índice CISCO.md",
+      "ctime": 1683127483914
     },
     {
       "type": "file",
-      "path": "1S 2023/Metodología de Inv/índice de Met. Inv/Indice de Metodología de Inv.md",
-      "ctime": 1684107610645
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Diseño_3D/Índice/Índice diseño en 3D Freecad.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Python/Docker/Índice docker.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Hacker/Índices/Índice Hacking.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/2S_2022/Instalaciónes/Índice instalación de equipos electrónicos.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Electrónica/Índices/Índice Introducción a ROS-1.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Latex/Índice/Índice LaTex.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/2S_2022/Legislación_2/Índice Legislación 2.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Índices/Índice Lua - Ti-Nspire.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Matemáticas/Índices/Índice Matemática básica.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Electrónica/Índices/Índice módulos electrónicos.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Obsidian/Índice/Índice Obsidian.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/2S_2022/Redes/Índice Packet tracer.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Índices/Índice PostgreSQL.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Índices/Índice Python.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/2S_2022/Química-Magistral/Índice química general.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Electrónica/Índices/Índice Raspberry.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/2S_2022/Redes/Índice Redes.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Electrónica/Índices/Índice ROS - Anis Koubaa.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Ubuntu/Índices/Índice ubuntu.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Electrónica/ROS/Primer ejercicio con turtlesim_node.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cursos_extra_Obsidian/CISCO_IEEE/Índice CISCO IEEE.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Astrometrica/Índice astrometrica.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/ImageJ analizador/Índice ImageJ analizador.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/Índice USAC.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "English/Notebook_AE/Level_9/Index level 9 AE.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/Tesis/Índice Tesis.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Iglesia/Índice iglesia.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Índices/Índice C++.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "Cerebro_digital_obsidian_hefecaso/Cerebro/Programación/Octave/índice/Índice Octave.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "English/English Index.md",
+      "ctime": 1683127483914
+    },
+    {
+      "type": "file",
+      "path": "USAC/1S_2023/Redes/Índice Telecomunicaciónes y redes locales 1S 2023.md",
+      "ctime": 1683127483914
     }
   ]
 }

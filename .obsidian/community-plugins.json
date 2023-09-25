@@ -10,5 +10,8 @@
   "obsidian-git",
   "obsidian-zotero-desktop-connector",
   "better-pdf-plugin",
-  "gpt3-notes"
+  "gpt3-notes",
+  "obsidian-pretty-bibtex",
+  "obsidian-desmos",
+  "obsidian-extract-pdf-highlights"
 ]

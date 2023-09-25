@@ -6,6 +6,7 @@
   "backlink",
   "canvas",
   "tag-pane",
+  "properties",
   "page-preview",
   "templates",
   "note-composer",
@@ -15,5 +16,6 @@
   "markdown-importer",
   "outline",
   "word-count",
+  "slides",
   "file-recovery"
 ]

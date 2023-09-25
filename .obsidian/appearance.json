@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Dark Moss",
   "theme": "obsidian",
   "translucency": false,
-  "baseFontSize": 20,
-  "accentColor": "#fbff00"
+  "baseFontSize": 18,
+  "accentColor": ""
 }

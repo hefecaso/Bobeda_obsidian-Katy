@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "number": "checkbox",
+    "Nuevo vocablario": "date",
+    "Fecha": "date",
+    "Curso": "text",
+    "Lista": "multitext",
+    "Links de referencias obsidian": "multitext"
+  }
+}

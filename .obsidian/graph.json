@@ -25,7 +25,7 @@
       "query": "tag:#Matemática",
       "color": {
         "a": 1,
-        "rgb": 4663573
+        "rgb": 10617337
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.316998914738526,
-  "close": true
+  "scale": 0.5334256153650423,
+  "close": false
 }

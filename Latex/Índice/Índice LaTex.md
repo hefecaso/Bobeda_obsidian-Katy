@@ -31,6 +31,8 @@
 24. [[Modificar diseño de chapters y sections]]
 25. [[Configurar interlineado]]
 26. [[Notas al pié de página]]
+27. [[Escritura]]
+28. 
 
 
 --------------------------------------------------
@@ -45,6 +47,10 @@
 6. [[Tipos de documentos LaTex]]
 
 --------------------------------------------------
+## Clase de latex 
+
+1. [[Clase 1 de Latex introducción y primeros pasos]]
+2. 
 
 # Notas
 > [!note]  Notas
